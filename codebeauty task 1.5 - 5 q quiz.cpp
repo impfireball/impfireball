@@ -26,11 +26,6 @@ struct answer
 stores answer to each question in an array
 };
 
-answer_check
-{
-output correct or incorrect based on answer.correctflag
-}
-
 main()
 {
 create 5 objects of question
